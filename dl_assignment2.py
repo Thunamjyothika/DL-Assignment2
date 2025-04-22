@@ -313,6 +313,17 @@ def evaluate_model(test_data):
 
 evaluate_model(test_data.sample(100))
 
+
+
+
+
+
+
+
+
+
+
+
 # @title Default title text
 Question-2
 import zipfile
